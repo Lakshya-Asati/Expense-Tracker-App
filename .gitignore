@@ -1,0 +1,25 @@
+# Build artifacts
+build/
+.gradle/
+.kotlin/
+app/build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Local configuration
+local.properties
+.emulator_console_auth_token
+
+# Memory dumps
+*.hprof
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
