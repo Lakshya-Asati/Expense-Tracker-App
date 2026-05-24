@@ -37,6 +37,13 @@ A high-performance, visually stunning Android expense tracking application built
 
 ## 🚀 Getting Started
 
+### 📱 Download Live Build
+You can download the latest "live" version of the app directly from GitHub:
+1. Go to the **Actions** tab in this repository.
+2. Click on the latest successful **Android CI** run.
+3. Scroll down to **Artifacts** and download `app-debug`.
+4. Unzip the file and install the `.apk` on your Android device.
+
 ### Prerequisites
 - Android Studio Iguana or newer
 - JDK 17+
